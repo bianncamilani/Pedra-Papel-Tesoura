@@ -1,8 +1,8 @@
-🎮 Pedra, Papel e Tesoura
+Pedra, Papel e Tesoura
 
 Este é um jogo simples de Pedra, Papel e Tesoura, desenvolvido em Python para a disciplina de LCI (Laboratório de Computação I). O jogo utiliza entrada do usuário e escolha aleatória do computador para simular uma partida clássica, com emojis divertidos para deixar a experiência mais visual.
 
-📝 Como o jogo funciona
+Como o jogo funciona
 
 O usuário escolhe entre:
 
@@ -22,7 +22,7 @@ O programa compara as escolhas e determina:
 
 - Vitória do computador
 
-✨ Funcionalidades
+Funcionalidades
 
  Emojis para representar as jogadas
 
@@ -34,13 +34,13 @@ O programa compara as escolhas e determina:
 
 - Feedback imediato do resultado
 
-🛠 Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 - Python 3
 
 - Biblioteca padrão random
 
-💻 Código Principal (resumo)
+Código Principal (resumo)
 opcoes = {
     "pedra": "🪨",
     "papel": "📃",
@@ -50,6 +50,6 @@ opcoes = {
 jogador = input("Sua jogada: ").lower()
 computador = random.choice(list(opcoes.keys()))
 
-👤 Autor(a)
+Autor(a)
 
 - Bianca Milani
