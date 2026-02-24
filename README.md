@@ -1,4 +1,4 @@
-Pedra, Papel e Tesoura
+# Pedra, Papel e Tesoura
 
 Este é um jogo simples de Pedra, Papel e Tesoura, desenvolvido em Python para a disciplina de LCI (Laboratório de Computação I). O jogo utiliza entrada do usuário e escolha aleatória do computador para simular uma partida clássica, com emojis divertidos para deixar a experiência mais visual.
 
